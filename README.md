@@ -2,6 +2,7 @@
  STM32F407 can example with usart_can model
 
 devlop by stm32 Standard firmware library. not HAL.
+please open on mdk5 
 
 实验器材:
 	STM32F407ZGT6
